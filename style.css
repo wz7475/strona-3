@@ -43,23 +43,88 @@ body
 .tile1
 {
     float: left;
-    padding: 10px;
+    margin: 10px;
     width: 230px;
     height: 142px;
+    background-color: #3095d3;
+    text-align: center;
 }
 
 .tile2
 {
     float: left;
-    padding: 10px;
+    margin: 10px;
     width: 230px;
     height: 142px;
+    background-color: #666666;
+    text-align: center;
 }
 
 .tile3
 {
     float: left;
-    padding: 10px;
+    margin: 10px;
     width: 230px;
     height: 142px;
+    background-color: #82b637;
+    text-align: center;
+}
+
+.tile4
+{
+    margin: 10px;
+    background-color: #ee5a32;
+    width: 420px;
+    padding: 30px;
+    text-align: center;
+    font-size: 26px;
+    height: 82px;
+    line-height: 150%;
+}
+
+.tile5
+{
+    width: 420px;
+    height: 244px;
+    padding: 30px;
+    margin: 10px;
+    text-align: justify;
+    background-color: #666666;
+}
+
+.yt
+{
+    margin: 10px;
+    height: 142px;
+    width: 105px;
+    float: left;
+    background-color: #d94348;
+}
+
+.fb
+{
+    margin: 10px;
+    height: 142px;
+    width: 105px;
+    float: left;
+    background-color: #4668b3;
+}
+
+.insta
+{
+    margin: 10px;
+    height: 142px;
+    width: 105px;
+    float: left;
+    background-color: rgba(255, 255, 0, 0.836);
+    color: black;
+}
+
+.twitter
+{
+    margin: 10px;
+    height: 142px;
+    width: 105px;
+    float: left;
+    background-color: #3095d3;
 }
