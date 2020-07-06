@@ -1,0 +1,41 @@
+body
+{
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+}
+
+.square
+{
+    float: left;
+    width: 50%;
+}
+
+#logo
+{
+    width: 600px;
+    float: left;
+    font-size: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#clock
+{
+    float: left;
+    font-size: 70px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: right;
+}
